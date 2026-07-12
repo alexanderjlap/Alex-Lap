@@ -70,3 +70,7 @@ Whether you're interested in my resume or want to chat, feel free to email me at
 
 ---
 
+## GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=alexanderjlap&theme=dark)](https://git.io/streak-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexanderjlap&theme=dark)
